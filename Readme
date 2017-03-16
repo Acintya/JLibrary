@@ -12,3 +12,15 @@
     - 链接条目与本地文件 ！
     - 过滤出openload地址
     - 更新功能
+    
+    
+structure:
+    SerialNum
+    Poster
+    Name
+    Producer
+    Actress
+    Labels
+    snapshot
+    localFile
+    openloadAdress
